@@ -1,5 +1,5 @@
 import java.util.HashMap;
-class twoSum_On {
+class Solution_Better {
     public int[] twoSum(int[] nums, int target){
         // Mapa que vai guardar: número -> índice
         HashMap<Integer, Integer> mapa =  new HashMap<>();

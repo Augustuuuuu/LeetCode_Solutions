@@ -1,3 +1,4 @@
+package TwoSum;
 import java.util.HashMap;
 class Solution_Better {
     public int[] twoSum(int[] nums, int target){
